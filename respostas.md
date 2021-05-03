@@ -1,5 +1,5 @@
 
-Coloque as suas respostas nesse aquico e efetue um commit
+
 
 Q1-Este sistema especialista (sistema-especialista-dinossauro) faz as perguntas de forma dinâmica ou seja nem sempre as mesmas perguntas são exibidas ao usuário, ou sempre as mesmas perguntas são exibidas ao usuário, na mesma ordem? (sim, não)
 
